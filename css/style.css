@@ -364,7 +364,7 @@ h1, h2, h3, h4, h5, h6,
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
-  color: #31404B;
+  color: rgb(0,0,0);
 }
 
 h1, .h1 {
@@ -9227,9 +9227,9 @@ button.bg-dark:focus {
   text-transform: lowercase !important;
 }
 
-.text-uppercase {
+/* .text-uppercase {
   text-transform: uppercase !important;
-}
+} */
 
 .text-capitalize {
   text-transform: capitalize !important;
@@ -9271,9 +9271,9 @@ a.text-primary:hover, a.text-primary:focus {
   color: #0062b3 !important;
 }
 
-.text-secondary {
+/* .text-secondary {
   color: #31404B !important;
-}
+} */
 
 a.text-secondary:hover, a.text-secondary:focus {
   color: #13191d !important;
